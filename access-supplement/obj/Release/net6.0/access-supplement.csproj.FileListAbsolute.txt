@@ -1,0 +1,16 @@
+E:\星露谷工程\access-supplement\bin\Release\net6.0\access-supplement.deps.json
+E:\星露谷工程\access-supplement\bin\Release\net6.0\access-supplement.dll
+E:\星露谷工程\access-supplement\obj\Release\net6.0\access-supplement.csproj.AssemblyReference.cache
+E:\星露谷工程\access-supplement\obj\Release\net6.0\access-supplement.GeneratedMSBuildEditorConfig.editorconfig
+E:\星露谷工程\access-supplement\obj\Release\net6.0\access-supplement.AssemblyInfoInputs.cache
+E:\星露谷工程\access-supplement\obj\Release\net6.0\access-supplement.AssemblyInfo.cs
+E:\星露谷工程\access-supplement\obj\Release\net6.0\access-supplement.csproj.CoreCompileInputs.cache
+E:\星露谷工程\access-supplement\obj\Release\net6.0\access-supplement.dll
+F:\星露谷工程\access-supplement\bin\Release\net6.0\access-supplement.deps.json
+F:\星露谷工程\access-supplement\bin\Release\net6.0\access-supplement.dll
+F:\星露谷工程\access-supplement\obj\Release\net6.0\access-supplement.csproj.AssemblyReference.cache
+F:\星露谷工程\access-supplement\obj\Release\net6.0\access-supplement.GeneratedMSBuildEditorConfig.editorconfig
+F:\星露谷工程\access-supplement\obj\Release\net6.0\access-supplement.AssemblyInfoInputs.cache
+F:\星露谷工程\access-supplement\obj\Release\net6.0\access-supplement.AssemblyInfo.cs
+F:\星露谷工程\access-supplement\obj\Release\net6.0\access-supplement.csproj.CoreCompileInputs.cache
+F:\星露谷工程\access-supplement\obj\Release\net6.0\access-supplement.dll

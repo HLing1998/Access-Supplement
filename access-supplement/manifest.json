@@ -1,0 +1,16 @@
+{
+  "Name": "Access-Supplement",
+  "Author": "蓝疆帝月",
+  "Version": "1.0.9",
+  "Description": "为游戏内某些无障碍为支持到的部分增加无障碍支持",
+  "UniqueID": "HLing.AccessSupplement",
+  "EntryDll": "access-supplement.dll",
+  "Dependencies": [
+    {
+      "UniqueID": "shoaib.stardewaccess",
+      "MinimumVersion": "1.0.0"
+    }
+  ],
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
